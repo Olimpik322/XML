@@ -1,7 +1,0 @@
-<?xml version="1.0"?>
-<olimpik>
-<name>Denis Dyakonovn</name>
-<age>24</age>
-<animal>2</animal>
-<salary>10000</salary>
-</olimpik>
